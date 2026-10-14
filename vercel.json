@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "regions": ["ewr1"],
+  "regions": ["pdx1"],
   "builds": [
     {
       "src": "index.js",
